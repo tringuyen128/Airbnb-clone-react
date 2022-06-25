@@ -2,8 +2,11 @@ import React, { useState } from 'react'
 import './Banner.css'
 import { Button } from '@mui/material'
 import Search from './Search'
+import { useNavigate } from 'react-router-dom'
 
 const Banner = () => {
+  const navigate = useNavigate()
+
   //use state show date calendar, not show is the current state
   const [showSearch, setShowSearch] = useState(false)
 
@@ -26,7 +29,9 @@ const Banner = () => {
         <h5>
           plan a different kind of getaway to uncover the hidden gems near you.
         </h5>
-        <Button variant="outlined">Explore Nearby</Button>
+        <Button onClick={() => navigate('/search')} variant="outlined">
+          Get Away
+        </Button>
       </div>
     </div>
   )
