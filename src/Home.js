@@ -29,18 +29,20 @@ const Home = () => {
         <Card
           src={require('./assets/image4.png')}
           title="3 Bedroom Flat in Bournermouth"
-          description=""
-          price=""
+          description="Superhost with a stunning view of the beachside in the Sunny Bournermouth."
+          price="$130/night"
         />
         <Card
           src={require('./assets/image5.png')}
           title="Penhouse in London"
-          description=""
+          description="Enjoy the amazing sights of London with this stunning penhouse."
+          price="$350/night"
         />
         <Card
           src={require('./assets/image6.png')}
           title="1 Bedroom apartment"
-          description=""
+          description="Superhost with great amenties and a fabolous shopping complex nearby."
+          price="$70/night"
         />
       </div>
     </div>
