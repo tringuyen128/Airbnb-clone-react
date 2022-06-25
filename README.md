@@ -1,3 +1,14 @@
+The Home Page:
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/73785514/175792605-560c4962-0518-4d52-8eb9-5097e71f1c66.png">
+
+The Calander display
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/73785514/175792619-79587c57-4bba-4678-bf32-1062f282ef40.png">
+
+
+The Search Page
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/73785514/175792632-fbfcd7bd-5e07-450b-80d9-7a1d811b750b.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
